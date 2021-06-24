@@ -1,0 +1,13 @@
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Release\Script-Ware Custom UI (first try).exe.config
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Release\Script-Ware Custom UI (first try).exe
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Release\Script-Ware Custom UI (first try).pdb
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Release\FastColoredTextBox.dll
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Release\websocket-sharp.dll
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Release\FastColoredTextBox.xml
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Release\Script_Ware_Custom_UI__first_try_.Form1.resources
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Release\Script_Ware_Custom_UI__first_try_.Properties.Resources.resources
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Release\Script-Ware Custom UI (first try).csproj.GenerateResource.cache
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Release\Script-Ware Custom UI (first try).csproj.CoreCompileInputs.cache
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Release\Script-Ware Custom UI (first try).csproj.CopyComplete
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Release\Script-Ware Custom UI (first try).exe
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Release\Script-Ware Custom UI (first try).pdb

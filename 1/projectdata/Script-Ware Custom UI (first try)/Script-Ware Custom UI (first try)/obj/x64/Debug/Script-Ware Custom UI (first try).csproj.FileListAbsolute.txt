@@ -1,0 +1,19 @@
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Debug\Script-Ware Custom UI (first try).exe.config
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Debug\Script-Ware Custom UI (first try).exe
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Debug\Script-Ware Custom UI (first try).pdb
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Debug\websocket-sharp.dll
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Debug\FastColoredTextBox.dll
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\bin\x64\Debug\FastColoredTextBox.xml
+C:\Users\ahanr\Desktop\script-ware-uis\firstone\Script-Ware Custom UI (first try).exe.config
+C:\Users\ahanr\Desktop\script-ware-uis\firstone\Script-Ware Custom UI (first try).exe
+C:\Users\ahanr\Desktop\script-ware-uis\firstone\Script-Ware Custom UI (first try).pdb
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Debug\Script_Ware_Custom_UI__first_try_.Form1.resources
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Debug\Script_Ware_Custom_UI__first_try_.Properties.Resources.resources
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Debug\Script-Ware Custom UI (first try).csproj.GenerateResource.cache
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Debug\Script-Ware Custom UI (first try).csproj.CoreCompileInputs.cache
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Debug\Script-Ware Custom UI (first try).csproj.CopyComplete
+C:\Users\ahanr\Desktop\script-ware-uis\1\Script-Ware Custom UI.exe.config
+C:\Users\ahanr\Desktop\script-ware-uis\1\Script-Ware Custom UI.exe
+C:\Users\ahanr\Desktop\script-ware-uis\1\Script-Ware Custom UI.pdb
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Debug\Script-Ware Custom UI.exe
+C:\Users\ahanr\source\repos\Script-Ware Custom UI (first try)\Script-Ware Custom UI (first try)\obj\x64\Debug\Script-Ware Custom UI.pdb
